@@ -37,7 +37,7 @@ Log real GPS and boarding counts from one shuttle route, train a simple ML basel
 
 ## Tools and disclosure
 
-Plain HTML, CSS, JavaScript and SVG. No frameworks or map APIs. Code was written with an AI assistant (Claude).
+Plain HTML, CSS, JavaScript and SVG. No frameworks or map APIs.
 
 ## Market sizing (bottom-up, assumptions marked *)
 
